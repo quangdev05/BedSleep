@@ -1,0 +1,8 @@
+name: BedSleep
+version: '${project.version}'
+main: tencer.quangdev05.bedSleep.BedSleep
+api-version: '1.20'
+load: STARTUP
+authors: [ QuangDev05 ]
+description: Trời sẽ sáng khi 50% người chơi ngủ.
+website: https://github.com/quangdev05
