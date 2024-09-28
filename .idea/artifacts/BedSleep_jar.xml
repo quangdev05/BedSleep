@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="BedSleep:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/BedSleep_jar</output-path>
-    <root id="archive" name="BedSleep.jar">
-      <element id="module-output" name="BedSleep" />
-    </root>
-  </artifact>
-</component>
